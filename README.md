@@ -1,2 +1,2 @@
-# rl_tutorial
+# Introduction to Reinforcement Learning
 Intro tutorial to simple reinforcement learning algorithms
