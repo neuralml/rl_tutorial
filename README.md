@@ -1,5 +1,5 @@
 # Introduction to Reinforcement Learning
-Intro tutorial to simple reinforcement learning algorithms
+Intro tutorial to simple reinforcement learning algorithms.
 
 ## Instructions
 1. Download the repo to your own computer
